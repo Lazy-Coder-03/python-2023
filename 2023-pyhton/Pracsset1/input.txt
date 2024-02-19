@@ -1,0 +1,10 @@
+The mathematical constant π (pi) is the ratio of a circle's circumference to its diameter and is approximately 3.14159.
+Pi is an irrational number, meaning its decimal representation never repeats and never ends, making it a fascinating and unique mathematical constant.
+In geometry, π is crucial for calculating the area and circumference of circles, as well as for understanding the relationships between angles and radians.
+Pi is utilized in trigonometry formulas, such as those involving sine and cosine functions, contributing to the foundation of geometry and physics.
+The distribution of prime numbers is connected to π, specifically through the prime number theorem, which explores the distribution of prime numbers among positive integers.
+Pi appears in many mathematical and physical formulas, including those related to probability, wave functions, and Fourier transforms.
+In calculus, π is integral to understanding circular motion, with trigonometric functions involving π playing a key role in derivatives and integrals.
+The discovery of irrationality of π by Johann Lambert in the 18th century marked a significant advancement in the understanding of mathematical constants.
+Pi Day is celebrated on March 14th (3/14) worldwide, highlighting the importance and cultural significance of this fundamental mathematical constant.
+Beyond mathematics, π has cultural and historical significance, symbolizing the elegance and beauty found in the mathematical principles that govern our universe.
